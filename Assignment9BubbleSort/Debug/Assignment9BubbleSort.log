@@ -1,0 +1,6 @@
+﻿  BubbleSort.cpp
+C:\Users\eupig\source\repos\Assignment9BubbleSort\BubbleSort.cpp(168,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eupig\source\repos\Assignment9BubbleSort\BubbleSort.cpp(188,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eupig\source\repos\Assignment9BubbleSort\BubbleSort.cpp(224,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eupig\source\repos\Assignment9BubbleSort\BubbleSort.cpp(212): warning C4715: 'LinearSearch': not all control paths return a value
+  Assignment9BubbleSort.vcxproj -> C:\Users\eupig\source\repos\Assignment9BubbleSort\Debug\Assignment9BubbleSort.exe

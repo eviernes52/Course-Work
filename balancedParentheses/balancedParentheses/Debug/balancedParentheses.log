@@ -1,0 +1,29 @@
+﻿  balancedParentheses.cpp
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.cpp(30,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.cpp(39,14): error C2676: binary '==': 'std::string' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.cpp(40,15): error C2248: 'balancedParen<std::string>::top': cannot access private member declared in class 'balancedParen<std::string>'
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.H(18): message : see declaration of 'balancedParen<std::string>::top'
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.cpp(24): message : see declaration of 'balancedParen<std::string>'
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.cpp(40,26): error C2446: '==': no conversion from 'int' to 'balancedParen<std::string>::ParenNode *'
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.cpp(40,23): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.cpp(42,17): error C2660: 'balancedParen<std::string>::pop': function does not take 0 arguments
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.H(30,7): message : see declaration of 'balancedParen<std::string>::pop'
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.cpp(48,14): error C2676: binary '==': 'std::string' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.cpp(49,15): error C2248: 'balancedParen<std::string>::top': cannot access private member declared in class 'balancedParen<std::string>'
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.H(18): message : see declaration of 'balancedParen<std::string>::top'
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.cpp(24): message : see declaration of 'balancedParen<std::string>'
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.cpp(49,26): error C2446: '==': no conversion from 'int' to 'balancedParen<std::string>::ParenNode *'
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.cpp(49,23): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.cpp(51,17): error C2660: 'balancedParen<std::string>::pop': function does not take 0 arguments
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.H(30,7): message : see declaration of 'balancedParen<std::string>::pop'
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.cpp(58,14): error C2676: binary '==': 'std::string' does not define this operator or a conversion to a type acceptable to the predefined operator
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.cpp(59,15): error C2248: 'balancedParen<std::string>::top': cannot access private member declared in class 'balancedParen<std::string>'
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.H(18): message : see declaration of 'balancedParen<std::string>::top'
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.cpp(24): message : see declaration of 'balancedParen<std::string>'
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.cpp(59,26): error C2446: '==': no conversion from 'int' to 'balancedParen<std::string>::ParenNode *'
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.cpp(59,23): message : Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.cpp(61,17): error C2660: 'balancedParen<std::string>::pop': function does not take 0 arguments
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.H(30,7): message : see declaration of 'balancedParen<std::string>::pop'
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.cpp(73,10): error C2059: syntax error: ')'
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.cpp(73,12): error C2143: syntax error: missing ';' before '{'
+C:\Users\eupig\source\repos\balancedParentheses\balancedParentheses\balancedParentheses.cpp(38): fatal error C1075: '{': no matching token found

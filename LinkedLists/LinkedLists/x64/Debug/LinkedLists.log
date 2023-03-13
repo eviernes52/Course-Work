@@ -1,0 +1,21 @@
+﻿  LabLinkedLists.cpp
+C:\Users\eupig\source\repos\LinkedLists\LinkedLists\LinkedLists.h(49,4): error C2065: 'Node': undeclared identifier
+C:\Users\eupig\source\repos\LinkedLists\LinkedLists\LinkedLists.h(49,10): error C2065: 'n': undeclared identifier
+C:\Users\eupig\source\repos\LinkedLists\LinkedLists\LinkedLists.h(49,22): error C2061: syntax error: identifier 'Node'
+C:\Users\eupig\source\repos\LinkedLists\LinkedLists\LinkedLists.h(50,4): error C2065: 'Node': undeclared identifier
+C:\Users\eupig\source\repos\LinkedLists\LinkedLists\LinkedLists.h(50,10): error C2065: 'curr': undeclared identifier
+C:\Users\eupig\source\repos\LinkedLists\LinkedLists\LinkedLists.h(53,4): error C2065: 'n': undeclared identifier
+C:\Users\eupig\source\repos\LinkedLists\LinkedLists\LinkedLists.h(54,4): error C2065: 'n': undeclared identifier
+C:\Users\eupig\source\repos\LinkedLists\LinkedLists\LinkedLists.h(58,5): error C2065: 'curr': undeclared identifier
+C:\Users\eupig\source\repos\LinkedLists\LinkedLists\LinkedLists.h(59,12): error C2065: 'curr': undeclared identifier
+C:\Users\eupig\source\repos\LinkedLists\LinkedLists\LinkedLists.h(61,6): error C2065: 'curr': undeclared identifier
+C:\Users\eupig\source\repos\LinkedLists\LinkedLists\LinkedLists.h(61,13): error C2065: 'curr': undeclared identifier
+C:\Users\eupig\source\repos\LinkedLists\LinkedLists\LinkedLists.h(63,5): error C2065: 'curr': undeclared identifier
+C:\Users\eupig\source\repos\LinkedLists\LinkedLists\LinkedLists.h(63,18): error C2065: 'n': undeclared identifier
+C:\Users\eupig\source\repos\LinkedLists\LinkedLists\LinkedLists.h(67,12): error C2065: 'n': undeclared identifier
+C:\Users\eupig\source\repos\LinkedLists\LinkedLists\LinkedLists.h(77,18): error C2440: '=': cannot convert from 'NumberList::NodeList *const ' to 'NumberList *'
+C:\Users\eupig\source\repos\LinkedLists\LinkedLists\LinkedLists.h(77,14): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Users\eupig\source\repos\LinkedLists\LinkedLists\LinkedLists.h(81,22): error C2039: 'sum': is not a member of 'NumberList'
+C:\Users\eupig\source\repos\LinkedLists\LinkedLists\LinkedLists.h(10): message : see declaration of 'NumberList'
+C:\Users\eupig\source\repos\LinkedLists\LinkedLists\LinkedLists.h(82,24): error C2039: 'next': is not a member of 'NumberList'
+C:\Users\eupig\source\repos\LinkedLists\LinkedLists\LinkedLists.h(10): message : see declaration of 'NumberList'

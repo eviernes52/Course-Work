@@ -1,0 +1,4 @@
+﻿  Assignment3.cpp
+C:\Users\eupig\source\repos\Assignment 3\Assignment 3\Assignment3.cpp(64,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\eupig\source\repos\Assignment 3\Assignment 3\Assignment3.cpp(66,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Assignment 3.vcxproj -> C:\Users\eupig\source\repos\Assignment 3\Debug\Assignment 3.exe

@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (assignment2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Assembling assignment4(a).asm...
+assignment4(a).asm(8): error A2008: syntax error : .
+assignment4(a).asm(9): error A2008: syntax error : .
+assignment4(a).asm(10): error A2008: syntax error : .
+assignment4(a).asm(11): error A2008: syntax error : ,
+assignment4(a).asm(22): error A2008: syntax error : pushfd
+assignment4(a).asm(23): error A2008: syntax error : in instruction
+assignment4(a).asm(29): error A2008: syntax error : j2
+assignment4(a).asm(32): error A2005: symbol redefinition : quit
+assignment4(a).asm(33): error A2008: syntax error : invoke
+assignment4(a).asm(34): fatal error A1010: unmatched block nesting : main
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\assignment4(a).obj" /W3 /errorReport:prompt  /Ta"assignment4(a).asm"" exited with code 1.

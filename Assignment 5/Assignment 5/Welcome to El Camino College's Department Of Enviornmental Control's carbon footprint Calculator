@@ -1,0 +1,29 @@
+Welcome to El Camino College's Department Of Enviornmental Control's carbon footprint Calculator
+We will  calculate the average carbon foot print levels of US cities
+******************************************************************************
+City      Rounded Average Carbon FP      Fine ($) 
+******************************************************************************
+
+Amarillo            3              
+
+Rochester           6              
+
+Albuquerque         3              
+
+Durham              8              
+
+Boise               5              
+
+Jacksonville        3              
+
+Lexington           8              
+
+Tulsa               6              
+
+San_Francisco       1              
+
+No value available for carbon FP. Fine not calculated. 
+******************************************************************************
+Total number of cities in the file: 10
+Total fine collected: $0.00
+Thank you for using EL Camino College's Software Engineering Lab.

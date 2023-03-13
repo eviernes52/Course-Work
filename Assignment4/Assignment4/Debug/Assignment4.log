@@ -1,0 +1,4 @@
+﻿  WageCalculator.cpp
+C:\Users\eupig\source\repos\Assignment4\Assignment4\WageCalculator.cpp(81,26): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'char' can equal the given constant
+C:\Users\eupig\source\repos\Assignment4\Assignment4\WageCalculator.cpp(25,9): warning C4101: 'BasePay': unreferenced local variable
+  Assignment4.vcxproj -> C:\Users\eupig\source\repos\Assignment4\Debug\Assignment4.exe

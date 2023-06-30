@@ -1,4 +1,4 @@
-# 👨‍💻 My Java & C++ Object Oriented Coding & DSA assignments
-Past Course Work Used As A Learning Refrence 
+# 👨‍💻 My Java & C++ Object Oriented & Data Structure Assignments
 
-Mostly all consisting of a Java  & C++ majority with some Assembly Language Projects
+Past Course Work Mostly Consisting of C/C++ work with some low level x64 Assembly 
+
